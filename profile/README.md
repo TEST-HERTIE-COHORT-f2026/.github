@@ -2,7 +2,7 @@
 
 Welcome! This is the course organisation for **TEST-HERTIE-COHORT-f2026**.
 
-## 🌐 Course website
+## Course website
 
 **[TEST-HERTIE-COHORT-f2026 - course website](https://test-hertie-cohort-f2026.github.io/)** - schedule,
 lectures, assignments, and the teaching team. Auto-generated and kept in sync with this
